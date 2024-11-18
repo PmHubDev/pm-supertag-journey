@@ -23,3 +23,6 @@ The SuperTag is a JavaScript library containing all functions required for Perma
 ![GooogleTagManager_Trigger](https://github.com/user-attachments/assets/0cb3bff8-9490-4eec-b161-7637714b684c)
 <li>Name your tag and fill out the form completely.</li>
 </ol>
+
+## More about Permate SuperTag
+##### >> Visit [our Docs](https://permate.com/docs-category/brand-en/)
