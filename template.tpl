@@ -34,7 +34,7 @@ ___TEMPLATE_PARAMETERS___
 
 ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
-// Nhập mã mẫu của bạn tại đây.
+// Enter your template code here
 const injectScript = require('injectScript');
 
 const url = 'https://pmcdn1.com/o.js';
@@ -81,5 +81,3 @@ scenarios: []
 ___NOTES___
 
 Created on 11/18/2024, 11:07:53 AM
-
-
