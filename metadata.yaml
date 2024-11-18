@@ -1,5 +1,5 @@
 homepage: "https://permate.com"
 documentation: "https://permate.com/help-center/"
 versions:
-  - sha: 4728b63a6960403b3faafad73147b473da8002f0
+  - sha: 5b153c8fce54809c831375df6e708ec87e793918
     changeNotes: Initial release.
