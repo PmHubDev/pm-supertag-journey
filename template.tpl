@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Permate Brand SuperTag",
-  "categories": ["AFFILIATE_MARKETING", "ADVERTISING", "ATTRIBUTION"]
+  "categories": ["AFFILIATE_MARKETING", "ADVERTISING", "ATTRIBUTION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "Permate",
