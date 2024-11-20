@@ -58,7 +58,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://pmcdn1.com/o.js"
+                "string": "https://qa.pmcdn1.com/o.js"
               }
             ]
           }
